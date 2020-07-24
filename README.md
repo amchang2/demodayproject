@@ -6,3 +6,4 @@ Want to know your rights and how you got them? This website is an introduction t
 
 
 
+This project was made for Mission Bit Demo Day 2020
